@@ -1,7 +1,7 @@
 :repo:deb http://archive.ubuntu.com/ubuntu bionic main restricted universe multiverse
 :repo:deb http://archive.ubuntu.com/ubuntu bionic-security main restricted universe multiverse
 :repo:deb http://archive.ubuntu.com/ubuntu bionic-updates main restricted universe multiverse
-libtesseract-dev
+sudo apt-get install libtesseract-dev
 libatlas-base-dev
 libarchive-dev
 libarchive-tools
