@@ -1,13 +1,13 @@
 :repo:deb http://archive.ubuntu.com/ubuntu bionic main restricted universe multiverse
 :repo:deb http://archive.ubuntu.com/ubuntu bionic-security main restricted universe multiverse
 :repo:deb http://archive.ubuntu.com/ubuntu bionic-updates main restricted universe multiverse
-libtesseract-dev
-libatlas-base-dev
-libarchive-dev
-libarchive-tools
-libarchive13
-tesseract-ocr
-tesseract-ocr-eng
+:repo:deb libtesseract-dev
+:repo:deb libatlas-base-dev
+:repo:deb libarchive-dev
+:repo:deb libarchive-tools
+:repo:deb libarchive13
+:repo:deb tesseract-ocr
+:repo:deb tesseract-ocr-eng
 
 
 
